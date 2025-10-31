@@ -1,6 +1,8 @@
 # Games
 Games developed for university.
 
+PokeType: small program made to check type weaknesses for Pokemon competitive battling. The difference here is that you can keep add types, without being limited to two of them (it was made like this because some attacks can change a pokemon's type, adding a third one etc.). Because the file is JAR, anti-virus give a false-positive warning.
+
 IPA Quest
 https://dshiryu.itch.io/ipa-quest
 
